@@ -1,0 +1,1 @@
+print("Sistema Backend de Robótica iniciado correctamente")
